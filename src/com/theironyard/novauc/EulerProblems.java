@@ -1,5 +1,6 @@
 package com.theironyard.novauc;
 
+import java.math.BigInteger;
 import java.util.ArrayList;
 
 public class EulerProblems {
@@ -140,8 +141,32 @@ public class EulerProblems {
      * F11 = 89
      * F12 = 144
      * The 12th term, F12, is the first term to contain three digits.
+     *
      * What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
      *
      ********************************************************************************************/
 
+    public int fibIndex(int n){
+        BigInteger firstNum = BigInteger.ZERO;
+        BigInteger secondNum = BigInteger.ONE;
+        BigInteger fib = BigInteger.valueOf(2);
+        BigInteger middleMan;
+        BigInteger i = BigInteger.valueOf(3);
+        BigInteger bigN = BigInteger.TEN;
+        BigInteger looper = BigInteger.TEN;
+        while (n > 0){
+            bigN = bigN.multiply(looper);
+            n--;
+        }
+        while (fib.compareTo(bigN) == -1){
+            i = i.add(BigInteger.ONE);
+            middleMan = secondNum;
+            secondNum = secondNum.add(firstNum);
+            firstNum = middleMan;
+
+            fib = fib.add(secondNum);
+        }
+        System.out.println(i);
+        return i.intValue();
+    }
 }

@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="348e69c7-5848-417b-8765-fe148d84d161" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScratchPad.iml" afterPath="$PROJECT_DIR$/ScratchPad.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/theironyard/novauc/Main.java" afterPath="$PROJECT_DIR$/src/com/theironyard/novauc/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java" afterPath="$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java" afterPath="$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java" />
     </list>
     <ignored path="ScratchPad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,9 +37,11 @@
       <file leaf-file-name="EulerProblems.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="143" column="6" lean-forward="true" selection-start-line="143" selection-start-column="6" selection-end-line="143" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="146">
+              <caret line="159" column="9" lean-forward="false" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <caret line="71" column="70" lean-forward="false" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -634,44 +631,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487859242637</updated>
-      <workItem from="1487873745580" duration="17781000" />
+      <workItem from="1487873745580" duration="21757000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 51m 29s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 46m 11s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 51m 59s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 46m 58s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 52m 18s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 50m 58s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 53m 03s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 51m 33s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 54m 50s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 53m 00s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 55m 43s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 54m 40s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 55m 59s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 54m 50s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 18h 57m 41s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 06s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 19h 00m 12s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 13s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 19h 01m 22s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 21s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17781000" />
+    <option name="totallyTimeSpent" value="21757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1016" height="793" extended-state="0" />
@@ -771,16 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -789,11 +776,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="71" column="70" lean-forward="false" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="143" column="6" lean-forward="true" selection-start-line="143" selection-start-column="6" selection-end-line="143" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="146">
+          <caret line="159" column="9" lean-forward="false" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
