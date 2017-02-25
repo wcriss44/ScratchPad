@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EulerProblems.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EulerProblems.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="159" column="9" lean-forward="false" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="213" column="29" lean-forward="false" selection-start-line="213" selection-start-column="29" selection-end-line="213" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EulerProblemsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EulerProblemsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="71" column="70" lean-forward="false" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+            <state relative-caret-position="295">
+              <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +81,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/theironyard/novauc/Main.java" />
-        <option value="$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java" />
         <option value="$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java" />
+        <option value="$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java" />
       </list>
     </option>
   </component>
@@ -92,9 +92,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1016" />
+    <option name="width" value="993" />
     <option name="height" value="793" />
   </component>
   <component name="ProjectView">
@@ -631,48 +634,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487859242637</updated>
-      <workItem from="1487873745580" duration="21757000" />
+      <workItem from="1487873745580" duration="34830000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 46m 11s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 45m 55s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 46m 58s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 49m 45s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 50m 58s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 56m 54s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 51m 33s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 57m 12s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 53m 00s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 57m 28s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 54m 40s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 57m 59s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 54m 50s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 58m 16s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 06s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 59m 06s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 13s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 17h 59m 46s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EulerProblemsTest - 2017.02.23 at 20h 55m 21s.xml">
+    <history-entry file="EulerProblemsTest - 2017.02.24 at 18h 07m 20s.xml">
       <configuration name="EulerProblemsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21757000" />
+    <option name="totallyTimeSpent" value="34830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1016" height="793" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="993" height="793" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -682,14 +685,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33037037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17659138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18086225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -776,20 +779,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="71" column="70" lean-forward="false" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+        <state relative-caret-position="85">
+          <caret line="213" column="29" lean-forward="false" selection-start-line="213" selection-start-column="29" selection-end-line="213" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/theironyard/novauc/EulerProblems.java">
+    <entry file="file://$PROJECT_DIR$/src/Tests/com/theironyard/novauc/EulerProblemsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="159" column="9" lean-forward="false" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+        <state relative-caret-position="295">
+          <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -72,4 +72,24 @@ public class EulerProblemsTest extends TestCase{
         //Value of 10^100 digits. The index is off by 2 as noted above
         assertTrue(eulerProblems.fibIndex(998) == 4782);
     }
+
+    @Test
+    public void testSmallestMulti(){
+        //This problem was strangely listed as unsolved, but after answering it shows it is solved
+        //The difficulty of the problem, or lack of, should have clued me in!
+
+        //Check for answer
+        assertTrue(eulerProblems.smallestMulti() == 232792560);
+    }
+
+    @Test
+    public void testFibPanChecker(){
+
+        //This test takes a really...really...really.... long time. be warned!
+        //The formula is right but I need a better way of getting the front 9 digits out of the
+        //fib number when checking.
+
+        //DON'T RUN UNLESS YOU ARE BRAVE!
+        //System.out.println(eulerProblems.fibPanChecker());
+    }
 }
